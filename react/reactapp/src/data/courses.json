@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "instructor": "Priya Sharma",
+    "duration": "4 weeks",
+    "category": "Web Development",
+    "description": "Learn the basics of React.js including components, state, and props.",
+    "prerequisites": "Basic HTML, CSS, JS",
+    "topics": ["JSX", "Components", "State & Props", "Hooks"],
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "title": "Data Science with Python",
+    "instructor": "Rajesh Kumar",
+    "duration": "6 weeks",
+    "category": "Data Science",
+    "description": "Intro to Data Science concepts and Python libraries.",
+    "prerequisites": "Python basics",
+    "topics": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "title": "Cloud Computing Fundamentals",
+    "instructor": "Anita Das",
+    "duration": "5 weeks",
+    "category": "Cloud Computing",
+    "description": "Introduction to cloud computing concepts and services.",
+    "prerequisites": "Basic networking knowledge",
+    "topics": ["IaaS", "PaaS", "SaaS", "AWS Basics"],
+    "status": "Available"
+  }
+]
